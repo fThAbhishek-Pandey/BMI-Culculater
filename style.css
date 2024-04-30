@@ -1,0 +1,24 @@
+.button{
+    margin: 0.4rem auto 0.4rem auto;
+}
+.ans{
+    margin: 0.2rem auto 0.5rem auto; 
+    /* background-color:#2121ff; */
+    justify-self: center;
+    text-align: center;
+}
+.fill{
+    margin: 0.2rem auto 0.5rem auto; 
+    /* background-color:#2121ff; */
+    justify-self: center;
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
